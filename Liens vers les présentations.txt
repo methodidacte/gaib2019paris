@@ -1,0 +1,36 @@
+Nicolas ROBERT : Cognitive Services,comment se lancer rapidement dans leur utilisation avec 3 solutions différentes : API / Code / No Code
+
+https://speakerdeck.com/nrobert/azure-cognitive-services
+
+
+
+Alibek JAKUPOV : Custom Vision dans les condition industrielles : reconnaissance de l’équipement de protection
+
+https://github.com/methodidacte/gaib2019paris/blob/master/Alibek%20JAKUPOV%20-%20Custom%20Vision%20dans%20les%20conditions%20industrielles.pdf
+
+
+Jean-Pierre RIEHL : AI on Edge avec Azure IoT
+
+https://github.com/methodidacte/gaib2019paris/blob/master/Jean-Pierre%20RIEHL%20-%20AI%20on%20Edge.pdf
+
+
+Paul PETON : Explorez la donnée en grimpant à l'échelle : du notebook Python à Azure Databricks
+
+https://github.com/methodidacte/gaib2019paris/blob/master/Paul%20PETON%20-%20Explorez%20la%20donn%C3%A9e%20en%20grimpant%20%C3%A0%20l'%C3%A9chelle.pdf
+
+
+Fabien ADATO : Il déploie son IA en production, seulement 10% des Data Scientists en sont capables
+
+https://fr.slideshare.net/FabienAdato/gaib19-ai-intudstrialisation-azure-machine-learning-services
+
+
+Aymeric WEINBACH : L'avènement des robots artistes : IA + Azure =Art
+
+https://www.slideshare.net/AymericWeinbach/gaib19-azure-ia-art
+
+
+Jean-Philippe ENCAUSSE : Présentation d'un ensemble de services cognitifs utilisés dans un miroir connecté
+
+https://drive.google.com/file/d/1yvvQFiBmfAfsqiuMHY3PTfOwryWDYpM7/view
+
+
